@@ -179,8 +179,10 @@ print(f'Rendimento previsto: {predicao[0]:.2f}')
 
 ## 👥 Equipe
 
-- [Seu Nome] - RM[XXXXX]
-- [Adicionar membros do grupo]
+- Davis Roberto - RM567941
+- Guilherme Chan - RM567722
+- Deivid Paula da Silva Oliveira - RM566752
+- Guilherme Paes Barreto Didier Garcia - RM568457
 
 ## 🎥 Vídeo Demonstrativo
 
